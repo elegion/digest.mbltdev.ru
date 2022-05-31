@@ -1,0 +1,8 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 90">
+  <style>
+    .st0{fill:#00aeef}.st1{fill:none;stroke:#00aeef;stroke-miterlimit:10}.st3{display:inline}
+  </style>
+  <path class="st0" d="M45 1.5C69 1.5 88.5 21 88.5 45S69 88.5 45 88.5 1.5 69 1.5 45 21 1.5 45 1.5M45 0C20.1 0 0 20.1 0 45s20.1 45 45 45 45-20.1 45-45S69.9 0 45 0z"/>
+  <path class="st1" d="M23.6 25.2v32.4s0 7.9 7.2 7.9h31.5c-7.2 0-7.2-7.9-7.2-7.9V25.2H23.6zM30.6 33.9h17.5M30.6 39h17.5M30.6 44.1h17.5M30.6 49.3h17.5M30.6 54.5h17.5"/>
+  <path class="st1" d="M60.3 65.2s7.6 1.9 7.6-8.2V43.3H55"/>
+</svg>
